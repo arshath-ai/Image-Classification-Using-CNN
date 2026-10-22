@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Image Classification Using CNN
 
 A Deep Learning project that classifies images into two categories: **Thanos** and **Joker**, using a Convolutional Neural Network (CNN) built with Python and Keras.
@@ -137,3 +138,6 @@ GitHub: https://github.com/arshath-ai
 ## License
 
 This project is intended for educational and learning purposes.
+=======
+# Image-Classification-Using-CNN
+>>>>>>> 364689e1e4be3d0f3947c88f3ebf765be9e53536
